@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://emmapetruchyk.github.io/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio1/family/</loc>
+    <loc>https://emmapetruchyk.github.io/portfolio1/family/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio1/children/</loc>
+    <loc>https://emmapetruchyk.github.io/portfolio1/children/</loc>
     <lastmod>2023-01-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://emmapetruchyk.github.io/about/</loc>
   </url><url>
-    <loc>https://example.org/categories/animals/</loc>
+    <loc>https://emmapetruchyk.github.io/categories/animals/</loc>
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://emmapetruchyk.github.io/contact/</loc>
   </url><url>
-    <loc>https://example.org/services/</loc>
+    <loc>https://emmapetruchyk.github.io/services/</loc>
   </url>
 </urlset>
