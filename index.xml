@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emma Petruchyk on EMMA PETRUCHYK</title>
-    <link>https://emmapetruchyk.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Emma Petruchyk on EMMA PETRUCHYK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>emmapetruchyk@gmail.com (Emma Petruchyk)</managingEditor>
     <webMaster>emmapetruchyk@gmail.com (Emma Petruchyk)</webMaster>
     <copyright>©2025 Emma Petruchyk. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://emmapetruchyk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Couples &amp; Engagements</title>
-      <link>https://emmapetruchyk.github.io/portfolio/couples--engagements/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/couples--engagements/</guid><description>&lt;no value&gt;</description></item>
+      <link>http://localhost:1313/portfolio/couples--engagements/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/couples--engagements/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Family &amp; Children</title>
-      <link>https://emmapetruchyk.github.io/portfolio/family--children/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/family--children/</guid><media:content url="https://emmapetruchyk.github.io/portfolio/family--children/Photo22_hu_eadb2b1314de0116.JPG" type="image/jpeg"/>
+      <link>http://localhost:1313/portfolio/family--children/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/family--children/</guid><media:content url="http://localhost:1313/portfolio/family--children/Photo22_hu_98e3fde1d4c08bde.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://emmapetruchyk.github.io/portfolio/family--children/Photo22_hu_eadb2b1314de0116.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/portfolio/family--children/Photo22_hu_98e3fde1d4c08bde.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Headshots &amp; Personal Branding</title>
-      <link>https://emmapetruchyk.github.io/portfolio/headshots--personal-branding/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/headshots--personal-branding/</guid><description>&lt;no value&gt;</description></item>
+      <link>http://localhost:1313/portfolio/headshots--personal-branding/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/headshots--personal-branding/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Maternity</title>
-      <link>https://emmapetruchyk.github.io/portfolio/maternity/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/maternity/</guid><media:content url="https://emmapetruchyk.github.io/portfolio/maternity/photo22_hu_5ed469751f621723.jpg" type="image/jpeg"/>
+      <link>http://localhost:1313/portfolio/maternity/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/maternity/</guid><media:content url="http://localhost:1313/portfolio/maternity/photo22_hu_38440903a39a9381.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://emmapetruchyk.github.io/portfolio/maternity/photo22_hu_5ed469751f621723.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/portfolio/maternity/photo22_hu_38440903a39a9381.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Portrait</title>
-      <link>https://emmapetruchyk.github.io/portfolio/portraits/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/portraits/</guid><media:content url="https://emmapetruchyk.github.io/portfolio/portraits/photo04_hu_9506bd7922ee9ce4.jpg" type="image/jpeg"/>
+      <link>http://localhost:1313/portfolio/portraits/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/portraits/</guid><media:content url="http://localhost:1313/portfolio/portraits/photo04_hu_e9038be0330cbd52.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://emmapetruchyk.github.io/portfolio/portraits/photo04_hu_9506bd7922ee9ce4.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/portfolio/portraits/photo04_hu_e9038be0330cbd52.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Special Events</title>
-      <link>https://emmapetruchyk.github.io/portfolio/special-events/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/special-events/</guid><description>&lt;no value&gt;</description></item>
+      <link>http://localhost:1313/portfolio/special-events/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/special-events/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Lifestyle</title>
-      <link>https://emmapetruchyk.github.io/portfolio/lifestyle/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0100</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
-      <guid>https://emmapetruchyk.github.io/portfolio/lifestyle/</guid><description>&lt;no value&gt;</description></item>
+      <link>http://localhost:1313/portfolio/lifestyle/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>emmapetruchyk@gmail.com (Emma Petruchyk)</author>
+      <guid>http://localhost:1313/portfolio/lifestyle/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
