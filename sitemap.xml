@@ -2,36 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/couples--engagements/</loc>
+    <loc>https://emmapetruchyk.com/blog/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/children-photoshoot/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/family-photography/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/family-portraits/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/blog/my-post-3/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/photography/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/portraits/</loc>
+    <lastmod>2025-03-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/blog/my-post-4/</loc>
+    <lastmod>2025-03-01T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/maternity-photography/</loc>
+    <lastmod>2025-03-01T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/motherhood-portraits/</loc>
+    <lastmod>2025-03-01T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/pregnancy-photoshoot/</loc>
+    <lastmod>2025-03-01T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/journey/</loc>
+    <lastmod>2025-02-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/portrait-photography/</loc>
+    <lastmod>2025-02-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/professional-portraits/</loc>
+    <lastmod>2025-02-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/blog/my-second-post/</loc>
+    <lastmod>2025-02-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/baby-photoshoot/</loc>
+    <lastmod>2025-01-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/tags/newborn-photography/</loc>
+    <lastmod>2025-01-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/blog/my-first-post/</loc>
+    <lastmod>2025-01-03T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://emmapetruchyk.com/portfolio/family--children/</loc>
     <lastmod>2023-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://emmapetruchyk.com/portfolio/maternity/</loc>
     <lastmod>2023-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/family--children/</loc>
+    <loc>https://emmapetruchyk.com/portfolio/portraits/</loc>
     <lastmod>2023-04-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/headshots--personal-branding/</loc>
-    <lastmod>2023-04-01T00:00:00-04:00</lastmod>
+    <loc>https://emmapetruchyk.com/portfolio/newborn/</loc>
+    <lastmod>2023-03-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/maternity/</loc>
-    <lastmod>2023-04-01T00:00:00-04:00</lastmod>
+    <loc>https://emmapetruchyk.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/portraits/</loc>
-    <lastmod>2023-04-01T00:00:00-04:00</lastmod>
+    <loc>https://emmapetruchyk.com/categories/animals/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/special-events/</loc>
-    <lastmod>2023-04-01T00:00:00-04:00</lastmod>
+    <loc>https://emmapetruchyk.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/portfolio/lifestyle/</loc>
-    <lastmod>2023-01-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/animals/</loc>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/investment/</loc>
+    <loc>https://emmapetruchyk.com/investment/</loc>
   </url>
 </urlset>
